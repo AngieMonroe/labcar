@@ -1,0 +1,106 @@
+.first-image{
+    background-image: url('../assets/images/taxi.jpg');
+    height: 90vh;
+    background-size: cover;
+    background-position: 0% 90%;
+    background-repeat: no-repeat;
+}
+.navbar{
+    height: 10vh;
+}
+
+.yellow{
+    background-color: yellow;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.center{
+    top: 30vh;
+}
+
+.logo-s{
+    height: 3vh;
+}
+
+.text-p1{
+    font-size: 2rem;
+    margin-top: -2rem;
+}
+
+/* Los estilos de tu proyecto 
+.yellow{
+    background-color: yellow;
+}
+.position{
+    right: 0px; top: 180px; z-index: 2;
+}
+button{
+    background-color: white;
+    margin: 1rem;
+    padding: .5rem;
+    border: 1rem;
+    border-radius: .5rem;
+}
+
+h3{
+    color: white;
+    padding: .5rem;
+}
+
+.view2 {
+    margin-top: 2rem;
+}
+
+.img{
+    padding: 2rem;
+    width: 85%;
+    border: white 2px solid;
+}
+
+p {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    padding-left: .5rem;
+    margin: 0;
+    color: white;
+    text-align: left;
+}
+
+.img-zoom{
+    width: 150%;
+    height: 90vh;
+}
+
+.img-fluid{
+    height: 90vh;
+}
+
+.position-right{
+    left: 0px; top: 180px; z-index: 2;
+}
+
+h4{
+    color: white;
+    font-family: sans-serif;
+}
+
+.btn-yellow{
+    background-color: yellow;
+    margin: 1rem;
+    padding: .5rem;
+    border: 1rem;
+    border-radius: .5rem;
+    color: white;
+}
+#map{
+    background-color: white;
+    margin: 1rem;
+    border: white 2px solid;
+}
+
+.gray{
+    background-color: gray;
+}
+
+*/
