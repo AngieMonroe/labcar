@@ -5,6 +5,14 @@
     background-position: 0% 90%;
     background-repeat: no-repeat;
 }
+
+.third-image{
+    background-image: url('../assets/images/conduce.jpg');
+    height: 50vh;
+    background-size: cover;
+    background-position: 80% 60%;
+    background-repeat: no-repeat;
+}
 .navbar{
     height: 10vh;
 }
@@ -16,7 +24,11 @@
 }
 
 .center{
-    top: 30vh;
+    top: 15vh;
+}
+
+.center-2{
+    top: 8vh;
 }
 
 .logo-s{
@@ -28,79 +40,30 @@
     margin-top: -2rem;
 }
 
-/* Los estilos de tu proyecto 
-.yellow{
-    background-color: yellow;
+.size-full{
+    height: 100vh;
 }
-.position{
-    right: 0px; top: 180px; z-index: 2;
-}
-button{
-    background-color: white;
-    margin: 1rem;
-    padding: .5rem;
-    border: 1rem;
-    border-radius: .5rem;
+.yellow-gt{
+    background-image: linear-gradient(red, yellow);
 }
 
-h3{
-    color: white;
-    padding: .5rem;
+.yellow-gl{
+    background-image: linear-gradient(to left, red, yellow);
 }
 
-.view2 {
-    margin-top: 2rem;
+.second-image{
+    height: 55vh;
 }
 
-.img{
-    padding: 2rem;
-    width: 85%;
-    border: white 2px solid;
+.text-p2{
+    font-size: 1.5rem;
 }
 
-p {
-    padding-top: 2rem;
-    padding-bottom: 1rem;
-    padding-left: .5rem;
-    margin: 0;
-    color: white;
-    text-align: left;
+.white-opacity{
+    background-color: black;
+    opacity: 0.6;
 }
 
-.img-zoom{
-    width: 150%;
-    height: 90vh;
+.center-3{
+    top: 8vh;
 }
-
-.img-fluid{
-    height: 90vh;
-}
-
-.position-right{
-    left: 0px; top: 180px; z-index: 2;
-}
-
-h4{
-    color: white;
-    font-family: sans-serif;
-}
-
-.btn-yellow{
-    background-color: yellow;
-    margin: 1rem;
-    padding: .5rem;
-    border: 1rem;
-    border-radius: .5rem;
-    color: white;
-}
-#map{
-    background-color: white;
-    margin: 1rem;
-    border: white 2px solid;
-}
-
-.gray{
-    background-color: gray;
-}
-
-*/
