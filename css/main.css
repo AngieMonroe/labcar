@@ -81,3 +81,14 @@ input{
 .red{
     color: red;
 }
+
+.img-map{
+    height: 32vh;
+    margin-top: .5rem;
+    margin-left: .4rem;
+}
+.img-map2{
+    height: 67vh;
+    margin-top: .5rem;
+    margin-left: 2rem;
+}
